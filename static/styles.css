@@ -1,0 +1,61 @@
+body{
+    background-color: F9F9F9;
+     text-align: center;
+}
+
+.heading{
+  font-family: 'Bebas Neue',
+  cursive;
+ 
+  font-size: 4rem;
+  text-shadow: 2px 2px grey;
+}
+
+textarea{
+    width: 50rem;
+    height: 20rem;
+    outline: none;
+    border:solid 2px black;
+    border-radius: 10px;
+    padding: 1rem;
+    opacity: 100%;
+    background-color: white;
+}
+
+button{
+    font-family: 'Bebas Neue',
+    cursive;
+    width: 10rem;
+    height: 2.5rem;
+    letter-spacing: 5px;
+    text-align: center;
+    font-size: 2rem;
+    margin-top: 1rem;
+    background-color: #FFEACA;
+    cursor: pointer;
+    border: soli 2px black;
+}
+
+.news{
+    font-family: 'Bebas Neue',
+    cursive;
+
+    font-size: 4rem;
+    text-shadow: 2px 2px grey;
+}
+
+p{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    background-color: blanchedalmond;
+    width: 51rem;
+    /* height: 20rem; */
+    margin-left: 18rem;
+}
+
+.prediction{
+    font-family: 'Bebas Neue',
+    cursive;
+     color: #334257;
+    font-size: 4rem;
+    text-shadow: 2px 2px grey;
+}
